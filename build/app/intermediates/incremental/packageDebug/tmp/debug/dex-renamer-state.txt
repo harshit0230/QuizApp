@@ -1,0 +1,4 @@
+#Sun Dec 05 00:18:14 IST 2021
+base.0=C\:\\Users\\mehul\\Desktop\\flutter-project\\flutter-project\\Quiz-App-Flutter-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
